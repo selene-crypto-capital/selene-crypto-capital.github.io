@@ -117,13 +117,25 @@ a.navbar-item.is-active {
           letter-spacing: 0.03em;
         }
         .table-row {
-          background-color: #fff;
+            background-color: #fff;
         }
         .col-1 {
-          flex-basis: 10%;
+            flex-basis: 10%;
         }
         .col-2 {
-          flex-basis: 40%;
+            flex-basis: 40%;
+        }
+        .col-3 {
+            flex-basis: 10%;
+        }
+        .col-4 {
+            flex-basis: 40%;
+        }
+        .col-5 {
+            flex-basis: 10%;
+        }
+        .col-6 {
+            flex-basis: 40%;
         }
         
         @media all and (max-width: 767px) {
