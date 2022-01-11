@@ -160,7 +160,7 @@ a.navbar-item.is-active {
               color: #fff;
               padding-right: 10px;
               content: attr(data-label);
-              flex-basis: 50%;
+              flex-basis: auto;
               text-align: right;
             }
           }
