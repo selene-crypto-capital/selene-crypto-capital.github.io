@@ -111,6 +111,21 @@ a.navbar-item.is-active {
         }
       }
       
+       /* Style buttons */
+        .btn {
+            background-color: DodgerBlue;
+            border: none;
+            color: white;
+            padding: 12px 30px;
+            cursor: pointer;
+            font-size: 20px;
+        }
+        
+        /* Darker background on mouse-over */
+        .btn:hover {
+            background-color: RoyalBlue;
+        } 
+
       .responsive-table {
         li {
           padding: 25px 30px;
