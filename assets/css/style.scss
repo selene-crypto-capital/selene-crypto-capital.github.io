@@ -127,7 +127,7 @@ a.navbar-item.is-active {
         } 
           
           .wrap-table100 {
-
+            width: 100%;
           }
           
           table {
@@ -173,9 +173,10 @@ a.navbar-item.is-active {
           .table100-head th{
             
             font-size: 18px;
-            color: #fff;
+            color: #fffff;
             line-height: 1.2;
             font-weight: unset;
+            background-color: #f5f5f5;
           }
           
           tbody tr:nth-child(even) {
