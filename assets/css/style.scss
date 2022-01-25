@@ -161,7 +161,23 @@ a.navbar-item.is-active {
         .col-6 {
             flex-basis: auto;
         }
-        
+
+        .data-panel {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+          }
+          
+          td, th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+          }
+          
+          tr:nth-child(even) {
+            background-color: #dddddd;
+          }
+          
         @media all and (max-width: 767px) {
           .table-header {
             display: none;
