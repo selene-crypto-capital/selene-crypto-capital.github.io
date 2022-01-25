@@ -185,7 +185,8 @@ a.navbar-item.is-active {
               padding-right: 10px;
               content: attr(data-label);
               flex-basis: auto;
-              text-align: right;
+              text-align: left;
+              width: 100%;
             }
           }
         }
