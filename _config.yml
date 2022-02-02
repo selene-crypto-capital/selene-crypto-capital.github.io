@@ -9,7 +9,7 @@ baseurl:
 # Title of the Site
 title: Selene Crypto Capital
 # Description of the Site
-description: Selene Crypto Capital è un fondo di investimento in cryptoassets, che si pone l'obiettivo di portare gli strumenti della finanza tradizionale, come gli ETF, nell' ecosistema blockchain
+description: Selene Crypto Capital
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images
 # Keywords of the Site
@@ -22,7 +22,7 @@ heroimage: https://cdn.pixabay.com/photo/2016/09/26/21/01/st-peters-square-16970
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: selene.crypto.capital@gmail.com
+email: 
 # facebook_username: thedevslot
 # twitter_username: thedevslot
 # instagram_username: thedevslot
