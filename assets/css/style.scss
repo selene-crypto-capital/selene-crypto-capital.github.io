@@ -198,7 +198,7 @@ a.navbar-item.is-active {
           }
           
           .column1 {
-            width: 160px;
+            width: 260px;
             padding-left: 40px;
           }
           
@@ -209,6 +209,23 @@ a.navbar-item.is-active {
           .column3 {
             width: 110px;
           }
+          
+          .column4 {
+            width: 110px;
+            text-align: left;
+          }
+          
+          .column5 {
+            width: 170px;
+            text-align: left;
+          }
+          
+          .column6 {
+            width: 222px;
+            text-align: left;
+            padding-right: 62px;
+          }
+          
           
           @media screen and (max-width: 992px) {
             table {
