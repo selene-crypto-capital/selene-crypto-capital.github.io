@@ -198,7 +198,7 @@ a.navbar-item.is-active {
           }
           
           .column1 {
-            width: 260px;
+            width: 160px;
             padding-left: 40px;
           }
           
@@ -221,7 +221,7 @@ a.navbar-item.is-active {
           }
           
           .column6 {
-            width: 222px;
+            width: 250px;
             text-align: left;
             padding-right: 62px;
           }
@@ -263,12 +263,30 @@ a.navbar-item.is-active {
                 content: "Wallet";
               }
               table tbody tr td:nth-child(2):before {
-                content: "Controvalore attuale";
+                content: "Data acquisto";
               }
               table tbody tr td:nth-child(3):before {
                 content: "Prezzo";
               }
-
+              table tbody tr td:nth-child(4):before {
+                content: "Quantità";
+              }
+              table tbody tr td:nth-child(5):before {
+                content: "Versamenti";
+              }
+              table tbody tr td:nth-child(6):before {
+                content: "Controvalore attuale";
+              }
+          
+            .column4,
+            .column5,
+            .column6 {
+              text-align: left;
+            }
+          
+            .column4,
+            .column5,
+            .column6,
             .column1,
             .column2,
             .column3 {
