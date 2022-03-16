@@ -211,8 +211,12 @@ a.navbar-item.is-active {
           .column2 {
             width: 160px;
           }
-          
+
           .column3 {
+            width: 160px;
+          }
+          
+          .column4 {
             width: 110px;
           }
           
@@ -261,7 +265,8 @@ a.navbar-item.is-active {
 
             .column1,
             .column2,
-            .column3 {
+            .column3,
+            .column4 {
               width: 100%;
             }
           
