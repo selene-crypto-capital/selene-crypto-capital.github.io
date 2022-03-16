@@ -270,6 +270,12 @@ a.navbar-item.is-active {
               padding-right: 15px;
             }
           }
+          .center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 50%;
+          }
 }
 
 #contact {
