@@ -76,6 +76,12 @@ a.navbar-item.is-active {
         img {
             border: 0.25rem dotted black;
         }
+        .center {
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          width: 50%;
+        }
     }
 
     a {
@@ -270,12 +276,7 @@ a.navbar-item.is-active {
               padding-right: 15px;
             }
           }
-          .center {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-            width: 50%;
-          }
+
 }
 
 #contact {
